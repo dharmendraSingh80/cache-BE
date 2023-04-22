@@ -1,4 +1,7 @@
 # Cache-API
+This Api is built using
+- NodeJs
+- ExpressJS
 
 ## Instructions about SetUp:
 First start with downloading the code and and write npm install on code editor, it will install all dependencies on your editor. You will need a code editor setup on your computer. We will use postman to check the api is working or not,So download postman on your computer.
